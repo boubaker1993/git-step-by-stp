@@ -1,0 +1,3 @@
+ open file_1.txt # le fichier va s'ouvrir, écrire quelque chose et enregistrer
+ touch file_2.txt
+ open file_2.txt # le fichier va s'ouvrir, écrire quelque chose et enregistrer
